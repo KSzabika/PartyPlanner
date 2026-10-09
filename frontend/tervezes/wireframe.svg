@@ -1,0 +1,1569 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2382" height="11075" viewBox="0 0 2382 11075" version="1.1">
+  <title>PartyPlanner — 13 képernyő, mobil / tablet / számítógép</title>
+  <desc>Egyetlen szerkeszthető SVG-fájlban 39 vektoros high-fidelity wireframe nézet. Minden szöveg és alakzat valódi SVG-elem.</desc>
+  <style>.section-title { font: 700 27px "DejaVu Sans",Arial,sans-serif; fill:#1E2737 } .view-label { font: 700 16px "DejaVu Sans",Arial,sans-serif; fill:#68778C }</style>
+  <rect width="2382" height="11075" fill="#F3F6FA" />
+  <rect x="0" y="0" width="2382" height="11" fill="#475569" />
+  <text x="52" y="74" font-family="DejaVu Sans,Arial,sans-serif" font-size="39" font-weight="700" fill="#1F2937">PartyPlanner · Wireframe</text>
+  <text x="52" y="112" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" fill="#647183">13 felület  ·  mobil / tablet / számítógép  ·  szerkeszthető vektorgrafika</text>
+  <line x1="52" y1="143" x2="2330" y2="143" stroke="#D8E0EA" stroke-width="2" />
+  <rect x="38" y="165" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="186" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="209" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">01</text>
+  <text x="113" y="212" class="section-title">Köszöntő oldal</text>
+  <text x="55" y="252" class="view-label">MOBIL</text>
+  <rect x="50" y="271" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 273)" id="koszonto-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <text x="26" y="152.26" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" fill="#202733">Szervezz bulit</text>
+    <text x="26" y="190.26" font-family="DejaVu Sans,Arial,sans-serif" font-size="29" font-weight="700" fill="#202733">egy helyen!</text>
+    <text x="26" y="239.98" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#647183">Minden fontos funkció egy</text>
+    <text x="26" y="266.98" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="400" fill="#647183">átlátható alkalmazásban.</text>
+    <rect x="26" y="301" width="177" height="48" rx="7" fill="#30343B" stroke="none" />
+    <text x="58.859" y="330.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Regisztráció</text>
+    <rect x="212" y="301" width="184" height="48" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="248.508" y="330.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" fill="#202733">Bejelentkezés</text>
+    <rect x="26" y="384" width="370" height="242" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="57" y="425" width="215" height="20" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="57" y="462" width="280" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="80.5" cy="534.5" r="23.5" fill="#DDE2E8" />
+    <circle cx="145.5" cy="534.5" r="23.5" fill="#DDE2E8" />
+    <circle cx="210.5" cy="534.5" r="23.5" fill="#DDE2E8" />
+  </g>
+  <text x="509" y="252" class="view-label">TABLET</text>
+  <rect x="504" y="271" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 273)" id="koszonto-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="562.227" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Belépés</text>
+    <text x="45" y="212.96" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" font-weight="700" fill="#202733">Szervezz bulit</text>
+    <text x="45" y="257.96" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" font-weight="700" fill="#202733">egy helyen!</text>
+    <text x="45" y="314.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#647183">Résztvevők, költségek, teendők</text>
+    <text x="45" y="343.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#647183">és szavazások egy felületen.</text>
+    <rect x="45" y="392" width="179" height="48" rx="7" fill="#30343B" stroke="none" />
+    <text x="78.859" y="421.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Regisztráció</text>
+    <rect x="237" y="392" width="174" height="48" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="268.508" y="421.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" fill="#202733">Bejelentkezés</text>
+    <rect x="367.2" y="136" width="266.8" height="407" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="397.2" y="170" width="138.32" height="18" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="397.2" y="206" width="212.8" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="397.2" y="264" width="59.267" height="170" rx="8" fill="#F3F5F7" stroke="none" />
+    <circle cx="433.7" cy="304.5" r="17.5" fill="#CBD2DB" />
+    <rect x="413.2" y="340" width="36.95" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="466.467" y="264" width="59.267" height="170" rx="8" fill="#F3F5F7" stroke="none" />
+    <circle cx="502.967" cy="304.5" r="17.5" fill="#CBD2DB" />
+    <rect x="482.467" y="340" width="36.95" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="535.733" y="264" width="59.267" height="170" rx="8" fill="#F3F5F7" stroke="none" />
+    <circle cx="572.233" cy="304.5" r="17.5" fill="#CBD2DB" />
+    <rect x="551.733" y="340" width="36.95" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <text x="1213" y="252" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="271" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 273)" id="koszonto-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="1002.227" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Belépés</text>
+    <text x="75" y="212.96" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" font-weight="700" fill="#202733">Szervezz bulit</text>
+    <text x="75" y="257.96" font-family="DejaVu Sans,Arial,sans-serif" font-size="34" font-weight="700" fill="#202733">egy helyen!</text>
+    <text x="75" y="314.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#647183">Résztvevők, költségek, teendők</text>
+    <text x="75" y="343.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="400" fill="#647183">és szavazások egy felületen.</text>
+    <rect x="75" y="392" width="179" height="48" rx="7" fill="#30343B" stroke="none" />
+    <text x="108.859" y="421.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Regisztráció</text>
+    <rect x="267" y="392" width="174" height="48" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="298.508" y="421.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" fill="#202733">Bejelentkezés</text>
+    <rect x="604.8" y="136" width="469.2" height="407" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="634.8" y="170" width="269.88" height="18" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="634.8" y="206" width="415.2" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="634.8" y="264" width="126.733" height="170" rx="8" fill="#F3F5F7" stroke="none" />
+    <circle cx="671.3" cy="304.5" r="17.5" fill="#CBD2DB" />
+    <rect x="650.8" y="340" width="87.55" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="771.533" y="264" width="126.733" height="170" rx="8" fill="#F3F5F7" stroke="none" />
+    <circle cx="808.033" cy="304.5" r="17.5" fill="#CBD2DB" />
+    <rect x="787.533" y="340" width="87.55" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="908.267" y="264" width="126.733" height="170" rx="8" fill="#F3F5F7" stroke="none" />
+    <circle cx="944.767" cy="304.5" r="17.5" fill="#CBD2DB" />
+    <rect x="924.267" y="340" width="87.55" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <rect x="38" y="1000" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="1021" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="1044" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">02</text>
+  <text x="113" y="1047" class="section-title">Bejelentkezés</text>
+  <text x="55" y="1087" class="view-label">MOBIL</text>
+  <rect x="50" y="1106" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 1108)" id="bejelentkezes-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <text x="44.0" y="163.44" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="700" fill="#202733">Bejelentkezés</text>
+    <text x="44.0" y="210.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Email</text>
+    <rect x="44.0" y="219" width="342" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="235" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="44.0" y="295.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó</text>
+    <rect x="44.0" y="304" width="342" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="320" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="44.0" y="370" width="342" height="47" rx="7" fill="#30343B" stroke="none" />
+    <text x="179.375" y="398.54" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Belépés</text>
+    <text x="127.25" y="455.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Elfelejtetted a jelszavad?</text>
+    <line x1="44.0" y1="485" x2="386.0" y2="485" stroke="#E2E6EB" stroke-width="1" />
+    <text x="112.328" y="523.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Nincs még fiókod? Regisztrálj</text>
+  </g>
+  <text x="509" y="1087" class="view-label">TABLET</text>
+  <rect x="504" y="1106" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 1108)" id="bejelentkezes-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="562.227" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Belépés</text>
+    <rect x="60.0" y="96" width="560" height="470" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="95.0" y="154.44" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="700" fill="#202733">Bejelentkezés</text>
+    <text x="95.0" y="201.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Email</text>
+    <rect x="95.0" y="210" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="109.0" y="226" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="95.0" y="286.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó</text>
+    <rect x="95.0" y="295" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="109.0" y="311" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="95.0" y="361" width="490" height="47" rx="7" fill="#30343B" stroke="none" />
+    <text x="304.375" y="389.54" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Belépés</text>
+    <text x="252.25" y="446.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Elfelejtetted a jelszavad?</text>
+    <line x1="95.0" y1="476" x2="585.0" y2="476" stroke="#E2E6EB" stroke-width="1" />
+    <text x="237.328" y="514.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Nincs még fiókod? Regisztrálj</text>
+  </g>
+  <text x="1213" y="1087" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="1106" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 1108)" id="bejelentkezes-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="1002.227" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Belépés</text>
+    <rect x="280.0" y="96" width="560" height="470" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="315.0" y="154.44" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="700" fill="#202733">Bejelentkezés</text>
+    <text x="315.0" y="201.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Email</text>
+    <rect x="315.0" y="210" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="329.0" y="226" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="315.0" y="286.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó</text>
+    <rect x="315.0" y="295" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="329.0" y="311" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="315.0" y="361" width="490" height="47" rx="7" fill="#30343B" stroke="none" />
+    <text x="524.375" y="389.54" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Belépés</text>
+    <text x="472.25" y="446.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Elfelejtetted a jelszavad?</text>
+    <line x1="315.0" y1="476" x2="805.0" y2="476" stroke="#E2E6EB" stroke-width="1" />
+    <text x="457.328" y="514.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Nincs még fiókod? Regisztrálj</text>
+  </g>
+  <rect x="38" y="1835" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="1856" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="1879" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">03</text>
+  <text x="113" y="1882" class="section-title">Regisztráció</text>
+  <text x="55" y="1922" class="view-label">MOBIL</text>
+  <rect x="50" y="1941" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 1943)" id="regisztracio-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <text x="44.0" y="163.44" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="700" fill="#202733">Regisztráció</text>
+    <text x="44.0" y="210.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Felhasználónév</text>
+    <rect x="44.0" y="219" width="342" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="235" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="44.0" y="295.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Email</text>
+    <rect x="44.0" y="304" width="342" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="320" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="44.0" y="380.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó</text>
+    <rect x="44.0" y="389" width="342" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="405" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="44.0" y="465.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó megerősítése</text>
+    <rect x="44.0" y="474" width="342" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="490" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="44.0" y="539" width="342" height="47" rx="7" fill="#30343B" stroke="none" />
+    <text x="159.359" y="567.54" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Regisztráció</text>
+    <text x="111.086" y="624.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Már van fiókod? Jelentkezz be</text>
+  </g>
+  <text x="509" y="1922" class="view-label">TABLET</text>
+  <rect x="504" y="1941" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 1943)" id="regisztracio-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="562.227" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Belépés</text>
+    <rect x="60.0" y="96" width="560" height="555" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="95.0" y="154.44" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="700" fill="#202733">Regisztráció</text>
+    <text x="95.0" y="201.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Felhasználónév</text>
+    <rect x="95.0" y="210" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="109.0" y="226" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="95.0" y="286.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Email</text>
+    <rect x="95.0" y="295" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="109.0" y="311" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="95.0" y="371.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó</text>
+    <rect x="95.0" y="380" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="109.0" y="396" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="95.0" y="456.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó megerősítése</text>
+    <rect x="95.0" y="465" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="109.0" y="481" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="95.0" y="530" width="490" height="47" rx="7" fill="#30343B" stroke="none" />
+    <text x="284.359" y="558.54" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Regisztráció</text>
+    <text x="236.086" y="615.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Már van fiókod? Jelentkezz be</text>
+  </g>
+  <text x="1213" y="1922" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="1941" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 1943)" id="regisztracio-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="1002.227" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Belépés</text>
+    <rect x="280.0" y="96" width="560" height="555" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="315.0" y="154.44" font-family="DejaVu Sans,Arial,sans-serif" font-size="26" font-weight="700" fill="#202733">Regisztráció</text>
+    <text x="315.0" y="201.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Felhasználónév</text>
+    <rect x="315.0" y="210" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="329.0" y="226" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="315.0" y="286.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Email</text>
+    <rect x="315.0" y="295" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="329.0" y="311" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="315.0" y="371.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó</text>
+    <rect x="315.0" y="380" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="329.0" y="396" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="315.0" y="456.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Jelszó megerősítése</text>
+    <rect x="315.0" y="465" width="490" height="42" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="329.0" y="481" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="315.0" y="530" width="490" height="47" rx="7" fill="#30343B" stroke="none" />
+    <text x="504.359" y="558.54" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Regisztráció</text>
+    <text x="456.086" y="615.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Már van fiókod? Jelentkezz be</text>
+  </g>
+  <rect x="38" y="2670" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="2691" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="2714" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">04</text>
+  <text x="113" y="2717" class="section-title">Dashboard – Bulijaim</text>
+  <text x="55" y="2757" class="view-label">MOBIL</text>
+  <rect x="50" y="2776" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 2778)" id="bulijaim-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <text x="22" y="126.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Bulijaim</text>
+    <rect x="22" y="148" width="386" height="45" rx="7" fill="#30343B" stroke="none" />
+    <text x="176.57" y="175.54" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">+ Új buli</text>
+    <rect x="22" y="201" width="386" height="44" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="138.445" y="228.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="400" fill="#202733">Csatlakozás kóddal</text>
+    <rect x="22" y="271" width="386" height="183" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="42" y="291" width="220.02" height="17" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="352.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="315" y="344" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="384.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hátralévő idő</text>
+    <rect x="315" y="376" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="416.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségkeret</text>
+    <rect x="315" y="408" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="42" y="422" width="346" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="42" y="422" width="193.76" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="22" y="473" width="386" height="183" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="42" y="493" width="220.02" height="17" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="554.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="315" y="546" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="586.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hátralévő idő</text>
+    <rect x="315" y="578" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="618.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségkeret</text>
+    <rect x="315" y="610" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="42" y="624" width="346" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="42" y="624" width="193.76" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+  </g>
+  <text x="509" y="2757" class="view-label">TABLET</text>
+  <rect x="504" y="2776" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 2778)" id="bulijaim-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <text x="22" y="126.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Bulijaim</text>
+    <rect x="491" y="102" width="167" height="38" rx="7" fill="#30343B" stroke="none" />
+    <text x="543.281" y="124.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">+ Új buli</text>
+    <rect x="295" y="103" width="183" height="39" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="324.359" y="126.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Csatlakozás kóddal</text>
+    <rect x="22.0" y="179" width="309.0" height="196" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="42.0" y="199" width="176.13" height="17" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42.0" y="260.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="238.0" y="252" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42.0" y="292.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hátralévő idő</text>
+    <rect x="238.0" y="284" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42.0" y="324.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségkeret</text>
+    <rect x="238.0" y="316" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="42.0" y="343" width="269.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="42.0" y="343" width="150.64" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="349.0" y="179" width="309.0" height="196" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="369.0" y="199" width="176.13" height="17" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="369.0" y="260.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="565.0" y="252" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="369.0" y="292.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hátralévő idő</text>
+    <rect x="565.0" y="284" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="369.0" y="324.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségkeret</text>
+    <rect x="565.0" y="316" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="369.0" y="343" width="269.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="369.0" y="343" width="150.64" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+  </g>
+  <text x="1213" y="2757" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="2776" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 2778)" id="bulijaim-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <text x="22" y="126.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Bulijaim</text>
+    <rect x="931" y="102" width="167" height="38" rx="7" fill="#30343B" stroke="none" />
+    <text x="983.281" y="124.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">+ Új buli</text>
+    <rect x="735" y="103" width="183" height="39" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="764.359" y="126.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Csatlakozás kóddal</text>
+    <rect x="22.0" y="179" width="346.667" height="196" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="42.0" y="199" width="197.6" height="17" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42.0" y="260.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="275.667" y="252" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42.0" y="292.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hátralévő idő</text>
+    <rect x="275.667" y="284" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42.0" y="324.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségkeret</text>
+    <rect x="275.667" y="316" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="42.0" y="343" width="306.667" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="42.0" y="343" width="171.733" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="386.667" y="179" width="346.667" height="196" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="406.667" y="199" width="197.6" height="17" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="406.667" y="260.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="640.333" y="252" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="406.667" y="292.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hátralévő idő</text>
+    <rect x="640.333" y="284" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="406.667" y="324.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségkeret</text>
+    <rect x="640.333" y="316" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="406.667" y="343" width="306.667" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="406.667" y="343" width="171.733" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="751.333" y="179" width="346.667" height="196" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="771.333" y="199" width="197.6" height="17" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="771.333" y="260.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="1005.0" y="252" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="771.333" y="292.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hátralévő idő</text>
+    <rect x="1005.0" y="284" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="771.333" y="324.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségkeret</text>
+    <rect x="1005.0" y="316" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="771.333" y="343" width="306.667" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="771.333" y="343" width="171.733" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="22" y="395" width="346.667" height="196" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="42" y="415" width="197.6" height="17" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="476.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="275.667" y="468" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="508.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hátralévő idő</text>
+    <rect x="275.667" y="500" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="42" y="540.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségkeret</text>
+    <rect x="275.667" y="532" width="70" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="42" y="559" width="306.667" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="42" y="559" width="171.733" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+  </g>
+  <rect x="38" y="3505" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="3526" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="3549" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">05</text>
+  <text x="113" y="3552" class="section-title">Dashboard – üres állapot</text>
+  <text x="55" y="3592" class="view-label">MOBIL</text>
+  <rect x="50" y="3611" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 3613)" id="ures-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="22" y="118" width="386" height="510" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="170.0" y="218" width="90" height="81" rx="14" fill="#DDE2E8" stroke="none" />
+    <text x="30.023" y="352.68" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#202733">Még nincs egyetlen bulid sem</text>
+    <text x="89.43" y="393.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Hozz létre egyet, vagy csatlakozz</text>
+    <text x="116.93" y="419.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">meghívókód segítségével.</text>
+    <rect x="35.0" y="462" width="172" height="44" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="82.469" y="487.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Csatlakozás</text>
+    <rect x="221.0" y="462" width="172" height="44" rx="7" fill="#30343B" stroke="none" />
+    <text x="273.383" y="488.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">+ Új buli</text>
+  </g>
+  <text x="509" y="3592" class="view-label">TABLET</text>
+  <rect x="504" y="3611" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 3613)" id="ures-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="22" y="118" width="636" height="510" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="295.0" y="218" width="90" height="81" rx="14" fill="#DDE2E8" stroke="none" />
+    <text x="155.023" y="352.68" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#202733">Még nincs egyetlen bulid sem</text>
+    <text x="214.43" y="393.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Hozz létre egyet, vagy csatlakozz</text>
+    <text x="241.93" y="419.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">meghívókód segítségével.</text>
+    <rect x="160.0" y="462" width="172" height="44" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="207.469" y="487.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Csatlakozás</text>
+    <rect x="346.0" y="462" width="172" height="44" rx="7" fill="#30343B" stroke="none" />
+    <text x="398.383" y="488.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">+ Új buli</text>
+  </g>
+  <text x="1213" y="3592" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="3611" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 3613)" id="ures-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="22" y="118" width="1076" height="510" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="515.0" y="218" width="90" height="81" rx="14" fill="#DDE2E8" stroke="none" />
+    <text x="375.023" y="352.68" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="700" fill="#202733">Még nincs egyetlen bulid sem</text>
+    <text x="434.43" y="393.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Hozz létre egyet, vagy csatlakozz</text>
+    <text x="461.93" y="419.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">meghívókód segítségével.</text>
+    <rect x="380.0" y="462" width="172" height="44" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="427.469" y="487.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Csatlakozás</text>
+    <rect x="566.0" y="462" width="172" height="44" rx="7" fill="#30343B" stroke="none" />
+    <text x="618.383" y="488.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">+ Új buli</text>
+  </g>
+  <rect x="38" y="4340" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="4361" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="4384" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">06</text>
+  <text x="113" y="4387" class="section-title">Csatlakozás meghívókóddal</text>
+  <text x="55" y="4427" class="view-label">MOBIL</text>
+  <rect x="50" y="4446" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 4448)" id="csatlakozas-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="22.0" y="139" width="386" height="411" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="46.0" y="194.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Csatlakozás meghívókó…</text>
+    <text x="46.0" y="255.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Írd be a kapott hatjegyű kódot.</text>
+    <rect x="46.0" y="292" width="51.333" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="103.333" y="292" width="51.333" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="160.667" y="292" width="51.333" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="218.0" y="292" width="51.333" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="275.333" y="292" width="51.333" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="332.667" y="292" width="51.333" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="46.0" y="385" width="338" height="48" rx="7" fill="#30343B" stroke="none" />
+    <text x="161.562" y="414.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Csatlakozás</text>
+    <text x="46.0" y="479.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">← Vissza a dashboardra</text>
+  </g>
+  <text x="509" y="4427" class="view-label">TABLET</text>
+  <rect x="504" y="4446" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 4448)" id="csatlakozas-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="22.0" y="139" width="636" height="411" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="61.0" y="196.5" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#202733">Csatlakozás meghívókóddal</text>
+    <text x="61.0" y="255.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Írd be a kapott hatjegyű kódot.</text>
+    <rect x="61.0" y="292" width="83.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="155.833" y="292" width="83.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="250.667" y="292" width="83.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="345.5" y="292" width="83.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="440.333" y="292" width="83.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="535.167" y="292" width="83.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="61.0" y="385" width="558" height="48" rx="7" fill="#30343B" stroke="none" />
+    <text x="286.562" y="414.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Csatlakozás</text>
+    <text x="61.0" y="479.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">← Vissza a dashboardra</text>
+  </g>
+  <text x="1213" y="4427" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="4446" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 4448)" id="csatlakozas-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="230.0" y="139" width="660" height="411" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="269.0" y="196.5" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="700" fill="#202733">Csatlakozás meghívókóddal</text>
+    <text x="269.0" y="255.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Írd be a kapott hatjegyű kódot.</text>
+    <rect x="269.0" y="292" width="87.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="367.833" y="292" width="87.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="466.667" y="292" width="87.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="565.5" y="292" width="87.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="664.333" y="292" width="87.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="763.167" y="292" width="87.833" height="56" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="269.0" y="385" width="582" height="48" rx="7" fill="#30343B" stroke="none" />
+    <text x="506.562" y="414.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Csatlakozás</text>
+    <text x="269.0" y="479.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">← Vissza a dashboardra</text>
+  </g>
+  <rect x="38" y="5175" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="5196" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="5219" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">07</text>
+  <text x="113" y="5222" class="section-title">Új buli létrehozása</text>
+  <text x="55" y="5262" class="view-label">MOBIL</text>
+  <rect x="50" y="5281" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 5283)" id="uj_buli-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="22.0" y="90" width="386" height="575" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="44.0" y="133.56" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#202733">Új buli létrehozása</text>
+    <text x="44.0" y="179.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Buli neve</text>
+    <rect x="44.0" y="188" width="342" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="204" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="44.0" y="257.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Leírás</text>
+    <rect x="44.0" y="265" width="342" height="70" rx="5" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="44.0" y="363.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Dátum</text>
+    <rect x="44.0" y="372" width="167.58" height="35" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="388" width="80.438" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="218.42" y="363.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Időpont</text>
+    <rect x="218.42" y="372" width="167.58" height="35" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="232.42" y="388" width="80.438" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="44.0" y="442.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Helyszín</text>
+    <rect x="44.0" y="451" width="342" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="467" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="44.0" y="520.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teljes keret (opcionális)</text>
+    <rect x="44.0" y="529" width="342" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="58.0" y="545" width="164.16" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="44.0" y="587" width="212.04" height="42" rx="7" fill="#30343B" stroke="none" />
+    <text x="86.278" y="612.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Buli létrehozása</text>
+    <text x="283.4" y="611.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Mégse</text>
+  </g>
+  <text x="509" y="5262" class="view-label">TABLET</text>
+  <rect x="504" y="5281" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 5283)" id="uj_buli-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="22.0" y="90" width="636" height="575" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="53.0" y="133.56" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#202733">Új buli létrehozása</text>
+    <text x="53.0" y="179.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Buli neve</text>
+    <rect x="53.0" y="188" width="574" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="67.0" y="204" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="53.0" y="257.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Leírás</text>
+    <rect x="53.0" y="265" width="574" height="70" rx="5" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="53.0" y="363.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Dátum</text>
+    <rect x="53.0" y="372" width="281.26" height="38" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="67.0" y="388" width="135.005" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="351.48" y="363.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Időpont</text>
+    <rect x="351.48" y="372" width="275.52" height="38" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="365.48" y="388" width="132.25" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="53.0" y="442.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Helyszín</text>
+    <rect x="53.0" y="451" width="574" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="67.0" y="467" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="53.0" y="520.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teljes keret (opcionális)</text>
+    <rect x="53.0" y="529" width="574" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="67.0" y="545" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="53.0" y="587" width="355.88" height="42" rx="7" fill="#30343B" stroke="none" />
+    <text x="167.198" y="612.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Buli létrehozása</text>
+    <text x="454.8" y="611.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Mégse</text>
+  </g>
+  <text x="1213" y="5262" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="5281" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 5283)" id="uj_buli-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="200.0" y="90" width="720" height="575" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="231.0" y="133.56" font-family="DejaVu Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#202733">Új buli létrehozása</text>
+    <text x="231.0" y="179.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Buli neve</text>
+    <rect x="231.0" y="188" width="658" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="245.0" y="204" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="231.0" y="257.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Leírás</text>
+    <rect x="231.0" y="265" width="658" height="70" rx="5" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="231.0" y="363.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Dátum</text>
+    <rect x="231.0" y="372" width="322.42" height="38" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="245.0" y="388" width="154.762" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="573.16" y="363.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Időpont</text>
+    <rect x="573.16" y="372" width="315.84" height="38" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="587.16" y="388" width="151.603" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="231.0" y="442.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Helyszín</text>
+    <rect x="231.0" y="451" width="658" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="245.0" y="467" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <text x="231.0" y="520.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teljes keret (opcionális)</text>
+    <rect x="231.0" y="529" width="658" height="37" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <rect x="245.0" y="545" width="170" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="231.0" y="587" width="407.96" height="42" rx="7" fill="#30343B" stroke="none" />
+    <text x="371.238" y="612.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Buli létrehozása</text>
+    <text x="691.6" y="611.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Mégse</text>
+  </g>
+  <rect x="38" y="6010" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="6031" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="6054" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">08</text>
+  <text x="113" y="6057" class="section-title">Buli oldal – Áttekintés</text>
+  <text x="55" y="6097" class="view-label">MOBIL</text>
+  <rect x="50" y="6116" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 6118)" id="attekintes-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="0" y="66" width="430" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="430" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="94.547" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="29.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Áttekintés</text>
+    <rect x="118.547" y="80" width="92.359" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="130.547" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="217.906" y="80" width="73.609" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="229.906" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="298.516" y="80" width="100.766" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="310.516" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Költségvetés</text>
+    <text x="401" y="101.86" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" fill="#647183">›</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Áttekintés</text>
+    <rect x="22" y="197" width="386" height="116" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="231.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Résztvevők</text>
+    <circle cx="60.0" cy="262.0" r="16.0" fill="#CBD2DB" />
+    <circle cx="98.0" cy="262.0" r="16.0" fill="#CBD2DB" />
+    <circle cx="136.0" cy="262.0" r="16.0" fill="#CBD2DB" />
+    <circle cx="174.0" cy="262.0" r="16.0" fill="#CBD2DB" />
+    <rect x="22" y="330" width="386" height="114" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="364.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Költségvetés</text>
+    <rect x="42" y="377" width="170" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="42" y="404" width="346" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="42" y="404" width="214.52" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="22" y="462" width="386" height="137" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="496.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Teendők</text>
+    <rect x="42" y="508" width="18" height="18" rx="3" fill="#DDE2E8" stroke="none" />
+    <rect x="70" y="513" width="208.44" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="42" y="540" width="18" height="18" rx="3" fill="#DDE2E8" stroke="none" />
+    <rect x="70" y="545" width="208.44" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <text x="509" y="6097" class="view-label">TABLET</text>
+  <rect x="504" y="6116" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 6118)" id="attekintes-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="680" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="680" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="106.297" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Áttekintés</text>
+    <rect x="130.297" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="142.297" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="240.984" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="252.984" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="329.812" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="341.812" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="450.312" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="462.312" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="546.203" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="558.203" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Áttekintés</text>
+    <rect x="22.0" y="194" width="310.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41.0" y="228.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Résztvevők</text>
+    <circle cx="56.0" cy="280.0" r="15.0" fill="#CBD2DB" />
+    <circle cx="92.0" cy="280.0" r="15.0" fill="#CBD2DB" />
+    <circle cx="128.0" cy="280.0" r="15.0" fill="#CBD2DB" />
+    <circle cx="164.0" cy="280.0" r="15.0" fill="#CBD2DB" />
+    <rect x="41.0" y="321" width="170.5" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="348.0" y="194" width="310.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="367.0" y="228.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Költségvetés</text>
+    <rect x="367.0" y="277" width="195.3" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="367.0" y="310" width="272.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="367.0" y="310" width="163.2" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="22.0" y="395" width="310.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41.0" y="429.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Teendők</text>
+    <rect x="41.0" y="462" width="17" height="17" rx="3" fill="#DDE2E8" stroke="none" />
+    <rect x="71.0" y="466" width="145.7" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41.0" y="489" width="17" height="17" rx="3" fill="#DDE2E8" stroke="none" />
+    <rect x="71.0" y="493" width="145.7" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41.0" y="516" width="17" height="17" rx="3" fill="#DDE2E8" stroke="none" />
+    <rect x="71.0" y="520" width="145.7" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="348.0" y="395" width="310.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="367.0" y="429.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Szavazás</text>
+    <rect x="367.0" y="467" width="111.6" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="367.0" y="487" width="272.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="367.0" y="487" width="130.56" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="367.0" y="513" width="111.6" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="367.0" y="533" width="272.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="367.0" y="533" width="174.08" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="22.0" y="596" width="310.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41.0" y="630.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Playlist</text>
+    <rect x="41.0" y="670" width="210.8" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41.0" y="697" width="210.8" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41.0" y="724" width="210.8" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <text x="1213" y="6097" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="6116" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 6118)" id="attekintes-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="1120" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="1120" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="106.297" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Áttekintés</text>
+    <rect x="130.297" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="142.297" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="240.984" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="252.984" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="329.812" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="341.812" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="450.312" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="462.312" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="546.203" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="558.203" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Áttekintés</text>
+    <rect x="22.0" y="194" width="348.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41.0" y="228.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Résztvevők</text>
+    <circle cx="56.0" cy="280.0" r="15.0" fill="#CBD2DB" />
+    <circle cx="92.0" cy="280.0" r="15.0" fill="#CBD2DB" />
+    <circle cx="128.0" cy="280.0" r="15.0" fill="#CBD2DB" />
+    <circle cx="164.0" cy="280.0" r="15.0" fill="#CBD2DB" />
+    <rect x="41.0" y="321" width="191.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="386.0" y="194" width="348.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="405.0" y="228.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Költségvetés</text>
+    <rect x="405.0" y="277" width="219.24" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="405.0" y="310" width="310.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="405.0" y="310" width="186.0" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="750.0" y="194" width="348.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="769.0" y="228.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Teendők</text>
+    <rect x="769.0" y="261" width="17" height="17" rx="3" fill="#DDE2E8" stroke="none" />
+    <rect x="799.0" y="265" width="163.56" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="769.0" y="288" width="17" height="17" rx="3" fill="#DDE2E8" stroke="none" />
+    <rect x="799.0" y="292" width="163.56" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="769.0" y="315" width="17" height="17" rx="3" fill="#DDE2E8" stroke="none" />
+    <rect x="799.0" y="319" width="163.56" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="22.0" y="395" width="348.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41.0" y="429.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Szavazás</text>
+    <rect x="41.0" y="467" width="125.28" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41.0" y="487" width="310.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41.0" y="487" width="148.8" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41.0" y="513" width="125.28" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41.0" y="533" width="310.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41.0" y="533" width="198.4" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="386.0" y="395" width="348.0" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="405.0" y="429.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Playlist</text>
+    <rect x="405.0" y="469" width="236.64" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="405.0" y="496" width="236.64" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="405.0" y="523" width="236.64" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <rect x="38" y="6845" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="6866" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="6889" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">09</text>
+  <text x="113" y="6892" class="section-title">Résztvevők</text>
+  <text x="55" y="6932" class="view-label">MOBIL</text>
+  <rect x="50" y="6951" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 6953)" id="resztvevok-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="0" y="66" width="430" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="430" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="85.031" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="109.031" y="80" width="101.266" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="121.031" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Résztvevők</text>
+    <rect x="217.297" y="80" width="73.609" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="229.297" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="297.906" y="80" width="100.766" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="309.906" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Költségvetés</text>
+    <text x="401" y="101.86" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" fill="#647183">›</text>
+    <text x="22" y="169.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Résztvevők</text>
+    <rect x="22" y="205" width="386" height="425" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="257.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="247" width="167.859" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="308.859" y="241" width="79.141" height="27" rx="13" fill="#E9F4EC" stroke="none" />
+    <text x="319.859" y="257.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#357A55">Elfogadta</text>
+    <line x1="43" y1="304" x2="387" y2="304" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="344.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="334" width="190" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="335.0" y="328" width="53.0" height="27" rx="13" fill="#FBF4E1" stroke="none" />
+    <text x="346.0" y="344.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#9A7418">Talán</text>
+    <line x1="43" y1="391" x2="387" y2="391" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="431.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="421" width="159.312" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="300.312" y="415" width="87.688" height="27" rx="13" fill="#FAEAEA" stroke="none" />
+    <text x="311.312" y="431.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#A44B4B">Nem megy</text>
+    <line x1="43" y1="478" x2="387" y2="478" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="518.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="508" width="150.719" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="291.719" y="502" width="96.281" height="27" rx="13" fill="#F3F5F7" stroke="none" />
+    <text x="302.719" y="518.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Nincs válasz</text>
+  </g>
+  <text x="509" y="6932" class="view-label">TABLET</text>
+  <rect x="504" y="6951" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 6953)" id="resztvevok-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="680" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="680" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="114.141" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Résztvevők</text>
+    <rect x="240.312" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="252.312" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="329.141" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="341.141" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="449.641" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="461.641" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="545.531" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="557.531" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="169.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Résztvevők</text>
+    <rect x="491" y="145" width="167" height="38" rx="7" fill="#30343B" stroke="none" />
+    <text x="495.953" y="167.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">+ Meghívás emailben</text>
+    <rect x="22" y="205" width="636" height="425" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="257.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="247" width="318.0" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="558.859" y="241" width="79.141" height="27" rx="13" fill="#E9F4EC" stroke="none" />
+    <text x="569.859" y="257.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#357A55">Elfogadta</text>
+    <line x1="43" y1="299" x2="637" y2="299" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="339.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="329" width="318.0" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="585.0" y="323" width="53.0" height="27" rx="13" fill="#FBF4E1" stroke="none" />
+    <text x="596.0" y="339.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#9A7418">Talán</text>
+    <line x1="43" y1="381" x2="637" y2="381" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="421.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="411" width="318.0" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="550.312" y="405" width="87.688" height="27" rx="13" fill="#FAEAEA" stroke="none" />
+    <text x="561.312" y="421.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#A44B4B">Nem megy</text>
+    <line x1="43" y1="463" x2="637" y2="463" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="503.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="493" width="318.0" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="541.719" y="487" width="96.281" height="27" rx="13" fill="#F3F5F7" stroke="none" />
+    <text x="552.719" y="503.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Nincs válasz</text>
+  </g>
+  <text x="1213" y="6932" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="6951" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 6953)" id="resztvevok-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="1120" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="1120" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="114.141" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Résztvevők</text>
+    <rect x="240.312" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="252.312" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="329.141" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="341.141" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="449.641" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="461.641" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="545.531" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="557.531" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="169.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Résztvevők</text>
+    <rect x="931" y="145" width="167" height="38" rx="7" fill="#30343B" stroke="none" />
+    <text x="935.953" y="167.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">+ Meghívás emailben</text>
+    <rect x="22" y="205" width="1076" height="425" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="257.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="247" width="538.0" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="998.859" y="241" width="79.141" height="27" rx="13" fill="#E9F4EC" stroke="none" />
+    <text x="1009.859" y="257.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#357A55">Elfogadta</text>
+    <line x1="43" y1="299" x2="1077" y2="299" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="339.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="329" width="538.0" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="1025.0" y="323" width="53.0" height="27" rx="13" fill="#FBF4E1" stroke="none" />
+    <text x="1036.0" y="339.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#9A7418">Talán</text>
+    <line x1="43" y1="381" x2="1077" y2="381" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="421.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="411" width="538.0" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="990.312" y="405" width="87.688" height="27" rx="13" fill="#FAEAEA" stroke="none" />
+    <text x="1001.312" y="421.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#A44B4B">Nem megy</text>
+    <line x1="43" y1="463" x2="1077" y2="463" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="62.0" cy="503.0" r="21.0" fill="#CBD2DB" />
+    <rect x="97" y="493" width="538.0" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="981.719" y="487" width="96.281" height="27" rx="13" fill="#F3F5F7" stroke="none" />
+    <text x="992.719" y="503.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Nincs válasz</text>
+  </g>
+  <rect x="38" y="7680" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="7701" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="7724" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">10</text>
+  <text x="113" y="7727" class="section-title">Teendők</text>
+  <text x="55" y="7767" class="view-label">MOBIL</text>
+  <rect x="50" y="7786" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 7788)" id="teendok-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="0" y="66" width="430" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="430" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="85.031" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="109.031" y="80" width="92.359" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="121.031" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="208.391" y="80" width="80.25" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="220.391" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Teendők</text>
+    <rect x="295.641" y="80" width="100.766" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="307.641" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Költségvetés</text>
+    <text x="401" y="101.86" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" fill="#647183">›</text>
+    <text x="22" y="167.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Teendők</text>
+    <rect x="295" y="145" width="113" height="41" rx="7" fill="#30343B" stroke="none" />
+    <text x="335.109" y="169.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">+ Új</text>
+    <rect x="22.0" y="201" width="69.328" height="37" rx="6" fill="#30343B" stroke="none" />
+    <text x="29.0" y="223.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Nyitott</text>
+    <rect x="150.667" y="201" width="92.625" height="37" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="157.667" y="223.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Hozzárend.</text>
+    <rect x="279.333" y="201" width="45.734" height="37" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="286.333" y="223.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Kész</text>
+    <rect x="22" y="261" width="386" height="85" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="42" y="281" width="240" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="52.0" cy="319.0" r="10.0" fill="#DDE2E8" />
+    <rect x="73" y="314" width="139" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="22" y="359" width="386" height="85" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="42" y="379" width="240" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="52.0" cy="417.0" r="10.0" fill="#DDE2E8" />
+    <rect x="73" y="412" width="139" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="22" y="457" width="386" height="85" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="42" y="477" width="240" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="52.0" cy="515.0" r="10.0" fill="#DDE2E8" />
+    <rect x="73" y="510" width="139" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <text x="509" y="7767" class="view-label">TABLET</text>
+  <rect x="504" y="7786" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 7788)" id="teendok-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="680" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="680" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="229.859" y="80" width="89.609" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="241.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Teendők</text>
+    <rect x="326.469" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="338.469" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="446.969" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="458.969" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="542.859" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="554.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="167.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Teendők</text>
+    <rect x="491" y="143" width="167" height="38" rx="7" fill="#30343B" stroke="none" />
+    <text x="531.344" y="165.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">+ Új teendő</text>
+    <rect x="22.0" y="206" width="310.5" height="382" rx="9" fill="#E9EDF2" stroke="none" />
+    <text x="40.0" y="239.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700" fill="#647183">NYITOTT</text>
+    <rect x="35.0" y="263" width="284.5" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="50.0" y="284" width="176.985" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="60.5" cy="325.5" r="10.5" fill="#DDE2E8" />
+    <rect x="82.0" y="320" width="111.78" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="35.0" y="384" width="284.5" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="50.0" y="405" width="176.985" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="60.5" cy="446.5" r="10.5" fill="#DDE2E8" />
+    <rect x="82.0" y="441" width="111.78" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="347.5" y="206" width="310.5" height="382" rx="9" fill="#E9EDF2" stroke="none" />
+    <text x="365.5" y="239.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700" fill="#647183">HOZZÁRENDELVE</text>
+    <rect x="360.5" y="263" width="284.5" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="375.5" y="284" width="176.985" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="386.0" cy="325.5" r="10.5" fill="#DDE2E8" />
+    <rect x="407.5" y="320" width="111.78" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="360.5" y="384" width="284.5" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="375.5" y="405" width="176.985" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="386.0" cy="446.5" r="10.5" fill="#DDE2E8" />
+    <rect x="407.5" y="441" width="111.78" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="22" y="607" width="636" height="60" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="635.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#647183">KÉSZ</text>
+    <rect x="130" y="626" width="175" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <text x="1213" y="7767" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="7786" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 7788)" id="teendok-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="1120" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="1120" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="229.859" y="80" width="89.609" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="241.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Teendők</text>
+    <rect x="326.469" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="338.469" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="446.969" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="458.969" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="542.859" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="554.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="167.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Teendők</text>
+    <rect x="931" y="143" width="167" height="38" rx="7" fill="#30343B" stroke="none" />
+    <text x="971.344" y="165.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">+ Új teendő</text>
+    <rect x="22.0" y="206" width="348.667" height="382" rx="9" fill="#E9EDF2" stroke="none" />
+    <text x="40.0" y="239.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700" fill="#647183">NYITOTT</text>
+    <rect x="35.0" y="263" width="322.667" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="50.0" y="284" width="198.74" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="60.5" cy="325.5" r="10.5" fill="#DDE2E8" />
+    <rect x="82.0" y="320" width="125.52" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="35.0" y="384" width="322.667" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="50.0" y="405" width="198.74" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="60.5" cy="446.5" r="10.5" fill="#DDE2E8" />
+    <rect x="82.0" y="441" width="125.52" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="385.667" y="206" width="348.667" height="382" rx="9" fill="#E9EDF2" stroke="none" />
+    <text x="403.667" y="239.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700" fill="#647183">HOZZÁRENDELVE</text>
+    <rect x="398.667" y="263" width="322.667" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="413.667" y="284" width="198.74" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="424.167" cy="325.5" r="10.5" fill="#DDE2E8" />
+    <rect x="445.667" y="320" width="125.52" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="398.667" y="384" width="322.667" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="413.667" y="405" width="198.74" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="424.167" cy="446.5" r="10.5" fill="#DDE2E8" />
+    <rect x="445.667" y="441" width="125.52" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="749.333" y="206" width="348.667" height="382" rx="9" fill="#E9EDF2" stroke="none" />
+    <text x="767.333" y="239.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="700" fill="#647183">KÉSZ</text>
+    <rect x="762.333" y="263" width="322.667" height="100" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="777.333" y="284" width="198.74" height="13" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="787.833" cy="325.5" r="10.5" fill="#DDE2E8" />
+    <rect x="809.333" y="320" width="125.52" height="9" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <rect x="38" y="8515" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="8536" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="8559" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">11</text>
+  <text x="113" y="8562" class="section-title">Költségvetés</text>
+  <text x="55" y="8602" class="view-label">MOBIL</text>
+  <rect x="50" y="8621" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 8623)" id="koltsegvetes-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="0" y="66" width="430" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="430" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="85.031" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="109.031" y="80" width="92.359" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="121.031" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="208.391" y="80" width="73.609" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="220.391" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="289.0" y="80" width="112.047" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="301.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">Költségvetés</text>
+    <text x="401" y="101.86" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" fill="#647183">›</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Költségvetés</text>
+    <rect x="22" y="190" width="386" height="161" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="224.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Befizetések</text>
+    <rect x="42" y="236" width="220.02" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="42" y="262" width="346" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="42" y="262" width="207.6" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="42" y="291" width="346" height="41" rx="7" fill="#30343B" stroke="none" />
+    <text x="148.828" y="315.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Egyenlő elosztás</text>
+    <rect x="22" y="369" width="386" height="261" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="403.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Kiadások</text>
+    <circle cx="54.0" cy="437.0" r="14.0" fill="#DDE2E8" />
+    <rect x="82" y="425" width="158.26" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="82" y="449" width="96.5" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="54.0" cy="502.0" r="14.0" fill="#DDE2E8" />
+    <rect x="82" y="490" width="158.26" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="82" y="514" width="96.5" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="54.0" cy="567.0" r="14.0" fill="#DDE2E8" />
+    <rect x="82" y="555" width="158.26" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="82" y="579" width="96.5" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <text x="509" y="8602" class="view-label">TABLET</text>
+  <rect x="504" y="8621" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 8623)" id="koltsegvetes-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="680" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="680" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="229.859" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="241.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="318.688" y="80" width="126.688" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="330.688" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Költségvetés</text>
+    <rect x="452.375" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="464.375" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="548.266" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="560.266" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Költségvetés</text>
+    <rect x="22" y="190" width="636" height="269" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="224.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Kiadások</text>
+    <rect x="505" y="207" width="132" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="533.82" y="227.72" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">+ Új kiadás</text>
+    <circle cx="55.5" cy="271.5" r="13.5" fill="#DDE2E8" />
+    <rect x="84" y="264" width="298.92" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="543" y="264" width="87" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="55.5" cy="329.5" r="13.5" fill="#DDE2E8" />
+    <rect x="84" y="322" width="298.92" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="543" y="322" width="87" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <circle cx="55.5" cy="387.5" r="13.5" fill="#DDE2E8" />
+    <rect x="84" y="380" width="298.92" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="543" y="380" width="87" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="22" y="482" width="636" height="181" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="516.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Befizetések</text>
+    <rect x="44" y="531" width="170" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="44" y="558" width="592" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="44" y="558" width="390.72" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="44" y="589" width="592" height="44" rx="7" fill="#30343B" stroke="none" />
+    <text x="273.828" y="615.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Egyenlő elosztás</text>
+  </g>
+  <text x="1213" y="8602" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="8621" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 8623)" id="koltsegvetes-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="1120" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="1120" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="229.859" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="241.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="318.688" y="80" width="126.688" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="330.688" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Költségvetés</text>
+    <rect x="452.375" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="464.375" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="548.266" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="560.266" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Költségvetés</text>
+    <rect x="22" y="191" width="613.06" height="434" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="225.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Kiadások</text>
+    <rect x="485.06" y="207" width="129" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="512.38" y="229.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">+ Új kiadás</text>
+    <circle cx="59.5" cy="289.5" r="15.5" fill="#DDE2E8" />
+    <rect x="88" y="281" width="294.269" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="471.06" y="271" width="69.0" height="33" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="480.06" y="290.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Vállalom</text>
+    <line x1="43" y1="335" x2="614.06" y2="335" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="59.5" cy="363.5" r="15.5" fill="#DDE2E8" />
+    <rect x="88" y="355" width="294.269" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="471.06" y="345" width="69.0" height="33" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="480.06" y="364.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Vállalom</text>
+    <line x1="43" y1="409" x2="614.06" y2="409" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="59.5" cy="437.5" r="15.5" fill="#DDE2E8" />
+    <rect x="88" y="429" width="294.269" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="471.06" y="419" width="69.0" height="33" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="480.06" y="438.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Vállalom</text>
+    <line x1="43" y1="483" x2="614.06" y2="483" stroke="#E2E6EB" stroke-width="1" />
+    <circle cx="59.5" cy="511.5" r="15.5" fill="#DDE2E8" />
+    <rect x="88" y="503" width="294.269" height="12" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="471.06" y="493" width="69.0" height="33" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="480.06" y="512.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Vállalom</text>
+    <text x="44" y="597.98" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#202733">Összesen</text>
+    <rect x="488.06" y="589" width="111" height="10" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="654.06" y="191" width="443.94" height="232" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="673.06" y="225.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Befizetések</text>
+    <rect x="676.06" y="261" width="150" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="676.06" y="298" width="399.94" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="676.06" y="298" width="259.961" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="676.06" y="333" width="399.94" height="44" rx="7" fill="#30343B" stroke="none" />
+    <text x="809.858" y="359.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Egyenlő elosztás</text>
+    <rect x="654.06" y="443" width="443.94" height="182" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="673.06" y="477.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Befizetési állapot</text>
+    <rect x="676.06" y="493" width="135" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="997.0" y="493" width="77" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="676.06" y="530" width="135" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="997.0" y="530" width="77" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="676.06" y="567" width="135" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="997.0" y="567" width="77" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+  </g>
+  <rect x="38" y="9350" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="9371" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="9394" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">12</text>
+  <text x="113" y="9397" class="section-title">Szavazás</text>
+  <text x="55" y="9437" class="view-label">MOBIL</text>
+  <rect x="50" y="9456" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 9458)" id="szavazas-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="0" y="66" width="430" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="430" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="85.031" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="109.031" y="80" width="92.359" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="121.031" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="208.391" y="80" width="73.609" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="220.391" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="289.0" y="80" width="100.766" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="301.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Költségvetés</text>
+    <text x="401" y="101.86" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" fill="#647183">›</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Szavazás</text>
+    <rect x="22" y="193" width="386" height="237" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="227.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Étel</text>
+    <rect x="41" y="262" width="146.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="288" width="348" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="288" width="163.56" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="342" width="146.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="368" width="348" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="368" width="222.72" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="422" width="146.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="448" width="348" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="448" width="104.4" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="22" y="450" width="386" height="207" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="484.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Ital</text>
+    <rect x="41" y="519" width="146.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="545" width="348" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="545" width="163.56" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="599" width="146.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="625" width="348" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="625" width="222.72" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="679" width="146.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="705" width="348" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="705" width="104.4" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+  </g>
+  <text x="509" y="9437" class="view-label">TABLET</text>
+  <rect x="504" y="9456" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 9458)" id="szavazas-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="680" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="680" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="229.859" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="241.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="318.688" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="330.688" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="439.188" y="80" width="96.203" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="451.188" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Szavazás</text>
+    <rect x="542.391" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="554.391" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Szavazás</text>
+    <rect x="22" y="193" width="636" height="218" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="227.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Étel</text>
+    <rect x="41" y="262" width="241.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="288" width="598" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="288" width="281.06" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="342" width="241.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="368" width="598" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="368" width="382.72" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="422" width="241.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="448" width="598" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="448" width="179.4" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="22" y="430" width="636" height="216" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="464.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Ital</text>
+    <rect x="41" y="499" width="241.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="525" width="598" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="525" width="281.06" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="579" width="241.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="605" width="598" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="605" width="382.72" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="659" width="241.68" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="685" width="598" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="685" width="179.4" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+  </g>
+  <text x="1213" y="9437" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="9456" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 9458)" id="szavazas-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="1120" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="1120" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="229.859" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="241.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="318.688" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="330.688" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="439.188" y="80" width="96.203" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="451.188" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Szavazás</text>
+    <rect x="542.391" y="80" width="73.75" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="554.391" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Playlist</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Szavazás</text>
+    <rect x="22" y="193" width="530.0" height="366" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="41" y="227.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Étel</text>
+    <rect x="41" y="262" width="201.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="288" width="492.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="288" width="231.24" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="342" width="201.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="368" width="492.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="368" width="314.88" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="41" y="422" width="201.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="41" y="448" width="492.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="41" y="448" width="147.6" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="568.0" y="193" width="530.0" height="366" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="587.0" y="227.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Ital</text>
+    <rect x="587.0" y="262" width="201.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="587.0" y="288" width="492.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="587.0" y="288" width="231.24" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="587.0" y="342" width="201.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="587.0" y="368" width="492.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="587.0" y="368" width="314.88" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="587.0" y="422" width="201.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="587.0" y="448" width="492.0" height="10" rx="5" fill="#E2E6EB" stroke="none" />
+    <rect x="587.0" y="448" width="147.6" height="10" rx="5" fill="#CBD2DB" stroke="none" />
+    <rect x="415.0" y="212" width="117" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="442.484" y="232.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#202733">+ Új opció</text>
+    <rect x="961.0" y="212" width="117" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="988.484" y="232.28" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#202733">+ Új opció</text>
+  </g>
+  <rect x="38" y="10185" width="2306" height="820" rx="15" fill="#FFFFFF" stroke="#E0E7F0" stroke-width="1" />
+  <rect x="54" y="10206" width="44" height="34" rx="9" fill="#E9EDF4" />
+  <text x="66" y="10229" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#4B5B71">13</text>
+  <text x="113" y="10232" class="section-title">Playlist</text>
+  <text x="55" y="10272" class="view-label">MOBIL</text>
+  <rect x="50" y="10291" width="434" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(52 10293)" id="playlist-mobil">
+    <rect x="0" y="0" width="430" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="430" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="430" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <text x="385" y="43.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="400" fill="#647183">☰</text>
+    <rect x="0" y="66" width="430" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="430" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="85.031" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="109.031" y="80" width="92.359" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="121.031" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="208.391" y="80" width="73.609" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="220.391" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="289.0" y="80" width="100.766" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="301.0" y="98.78" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" font-weight="400" fill="#647183">Költségvetés</text>
+    <text x="401" y="101.86" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="400" fill="#647183">›</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Playlist</text>
+    <text x="22" y="215.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#202733">Zenei műfaj</text>
+    <rect x="22" y="230" width="386" height="44" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="36" y="256.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Válassz zenei műfajt</text>
+    <text x="378" y="259.74" font-family="DejaVu Sans,Arial,sans-serif" font-size="21" font-weight="400" fill="#647183">⌄</text>
+    <rect x="22" y="281" width="386" height="176" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="38" y="307.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">Pop</text>
+    <line x1="38" y1="321" x2="392" y2="321" stroke="#E2E6EB" stroke-width="1" />
+    <text x="38" y="340.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">Rock</text>
+    <line x1="38" y1="354" x2="392" y2="354" stroke="#E2E6EB" stroke-width="1" />
+    <text x="38" y="373.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">Hip-hop</text>
+    <line x1="38" y1="387" x2="392" y2="387" stroke="#E2E6EB" stroke-width="1" />
+    <text x="38" y="406.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">Elektronikus</text>
+    <line x1="38" y1="420" x2="392" y2="420" stroke="#E2E6EB" stroke-width="1" />
+    <text x="38" y="439.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">Egyéb</text>
+    <rect x="22" y="475" width="386" height="195" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="37" y="503.04" font-family="DejaVu Sans,Arial,sans-serif" font-size="16" font-weight="700" fill="#202733">A kiválasztott műfaj zenéi</text>
+    <rect x="36" y="527" width="36" height="39" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="84" y="531" width="173.7" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="84" y="551" width="104.22" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="354" y="531" width="35" height="32" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="365.633" y="551.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+    <rect x="36" y="594" width="36" height="39" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="84" y="598" width="173.7" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="84" y="618" width="104.22" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="354" y="598" width="35" height="32" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="365.633" y="618.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+  </g>
+  <text x="509" y="10272" class="view-label">TABLET</text>
+  <rect x="504" y="10291" width="684" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(506 10293)" id="playlist-tablet">
+    <rect x="0" y="0" width="680" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="680" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="680" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="523" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="557.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="680" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="680" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="229.859" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="241.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="318.688" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="330.688" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="439.188" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="451.188" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="535.078" y="80" width="81.812" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="547.078" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Playlist</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Playlist</text>
+    <text x="22" y="220.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Zenei műfaj</text>
+    <rect x="22" y="238" width="265" height="47" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="38" y="268.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Válassz zenei műfajt</text>
+    <text x="254" y="271.68" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#647183">⌄</text>
+    <rect x="22" y="293" width="265" height="210" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="322.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Pop</text>
+    <line x1="39" y1="339" x2="270" y2="339" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="363.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Rock</text>
+    <line x1="39" y1="380" x2="270" y2="380" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="404.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Hip-hop</text>
+    <line x1="39" y1="421" x2="270" y2="421" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="445.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Elektronikus</text>
+    <line x1="39" y1="462" x2="270" y2="462" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="486.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Egyéb</text>
+    <rect x="307" y="221" width="351" height="393" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="325" y="254.98" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#202733">A kiválasztott műfaj zenéi</text>
+    <rect x="325" y="285" width="43" height="43" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="383" y="291" width="140.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="383" y="310" width="94.77" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="602" y="289" width="36" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="614.133" y="310.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+    <line x1="325" y1="353" x2="640" y2="353" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="325" y="364" width="43" height="43" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="383" y="370" width="140.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="383" y="389" width="94.77" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="602" y="368" width="36" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="614.133" y="389.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+    <line x1="325" y1="432" x2="640" y2="432" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="325" y="443" width="43" height="43" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="383" y="449" width="140.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="383" y="468" width="94.77" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="602" y="447" width="36" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="614.133" y="468.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+    <line x1="325" y1="511" x2="640" y2="511" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="325" y="522" width="43" height="43" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="383" y="528" width="140.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="383" y="547" width="94.77" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="602" y="526" width="36" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="614.133" y="547.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+  </g>
+  <text x="1213" y="10272" class="view-label">SZÁMÍTÓGÉP</text>
+  <rect x="1208" y="10291" width="1124" height="694" rx="9" fill="#FFFFFF" stroke="#CAD4E0" stroke-width="2" />
+  <g transform="translate(1210 10293)" id="playlist-desktop">
+    <rect x="0" y="0" width="1120" height="690" fill="#F3F5F7" />
+    <rect x="0" y="0" width="1120" height="65" fill="#FFFFFF" />
+    <line x1="0" y1="65" x2="1120" y2="65" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="22" y="22" width="26" height="25" rx="6" fill="#30343B" stroke="none" />
+    <text x="56" y="37.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">PartyPlanner</text>
+    <rect x="963" y="14" width="130" height="37" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="997.133" y="36.22" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" font-weight="400" fill="#202733">Meghívás</text>
+    <rect x="0" y="66" width="1120" height="57" fill="#FFFFFF" />
+    <line x1="0" y1="123" x2="1120" y2="123" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="17" y="80" width="95.172" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="29.0" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Áttekintés</text>
+    <rect x="119.172" y="80" width="103.688" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="131.172" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Résztvevők</text>
+    <rect x="229.859" y="80" width="81.828" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="241.859" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Teendők</text>
+    <rect x="318.688" y="80" width="113.5" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="330.688" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Költségvetés</text>
+    <rect x="439.188" y="80" width="88.891" height="31" rx="6" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="451.188" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#647183">Szavazás</text>
+    <rect x="535.078" y="80" width="81.812" height="31" rx="6" fill="#30343B" stroke="none" />
+    <text x="547.078" y="99.66" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="700" fill="#FFFFFF">Playlist</text>
+    <text x="22" y="164.62" font-family="DejaVu Sans,Arial,sans-serif" font-size="23" font-weight="700" fill="#202733">Playlist</text>
+    <text x="22" y="220.92" font-family="DejaVu Sans,Arial,sans-serif" font-size="18" font-weight="700" fill="#202733">Zenei műfaj</text>
+    <rect x="22" y="238" width="350" height="47" rx="6" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="38" y="268.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#647183">Válassz zenei műfajt</text>
+    <text x="339" y="271.68" font-family="DejaVu Sans,Arial,sans-serif" font-size="22" font-weight="400" fill="#647183">⌄</text>
+    <rect x="22" y="293" width="350" height="210" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="322.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Pop</text>
+    <line x1="39" y1="339" x2="355" y2="339" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="363.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Rock</text>
+    <line x1="39" y1="380" x2="355" y2="380" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="404.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Hip-hop</text>
+    <line x1="39" y1="421" x2="355" y2="421" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="445.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Elektronikus</text>
+    <line x1="39" y1="462" x2="355" y2="462" stroke="#E2E6EB" stroke-width="1" />
+    <text x="40" y="486.1" font-family="DejaVu Sans,Arial,sans-serif" font-size="15" font-weight="400" fill="#202733">Egyéb</text>
+    <rect x="392" y="221" width="706" height="393" rx="10" fill="#FFFFFF" stroke="#E2E6EB" stroke-width="1" />
+    <text x="410" y="254.98" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="700" fill="#202733">A kiválasztott műfaj zenéi</text>
+    <rect x="410" y="285" width="43" height="43" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="468" y="291" width="282.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="468" y="310" width="190.62" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="1042" y="289" width="36" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="1054.133" y="310.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+    <line x1="410" y1="353" x2="1080" y2="353" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="410" y="364" width="43" height="43" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="468" y="370" width="282.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="468" y="389" width="190.62" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="1042" y="368" width="36" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="1054.133" y="389.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+    <line x1="410" y1="432" x2="1080" y2="432" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="410" y="443" width="43" height="43" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="468" y="449" width="282.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="468" y="468" width="190.62" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="1042" y="447" width="36" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="1054.133" y="468.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+    <line x1="410" y1="511" x2="1080" y2="511" stroke="#E2E6EB" stroke-width="1" />
+    <rect x="410" y="522" width="43" height="43" rx="5" fill="#DDE2E8" stroke="none" />
+    <rect x="468" y="528" width="282.4" height="11" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="468" y="547" width="190.62" height="8" rx="4" fill="#DDE2E8" stroke="none" />
+    <rect x="1042" y="526" width="36" height="34" rx="7" fill="#FFFFFF" stroke="#CBD2DB" stroke-width="1" />
+    <text x="1054.133" y="547.16" font-family="DejaVu Sans,Arial,sans-serif" font-size="14" font-weight="400" fill="#202733">↑</text>
+  </g>
+</svg>
